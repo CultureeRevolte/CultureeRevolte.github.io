@@ -1,6 +1,3 @@
-# Culturee Revoltee
-## Cultuur om van te Kosten
-
 Walgelijk van de ether tot glasvezel
 
 Vroeger op 88.3, nu op [Twitch](https://www.twitch.tv/cultureerevolte)
@@ -9,6 +6,7 @@ Vroeger op 88.3, nu op [Twitch](https://www.twitch.tv/cultureerevolte)
 
 ## Oude afleveringen
 
+<!--This Way Must let Repository Public-->
 <audio ref='Stedelijk Museum Zomer 2008 ?' src="https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte%20in%20Stedelijk%20Museum%20Zomer%2008%20%3F.mp3?raw=true"></audio>
 
 <script>
