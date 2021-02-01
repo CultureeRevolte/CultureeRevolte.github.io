@@ -5,6 +5,8 @@ Walgelijk van de ether tot glasvezel
 
 Vroeger op 88.3, nu op [Twitch](https://www.twitch.tv/cultureerevolte)
 
+Afleveringen terugluisteren kan [hier](https://cultureerevolte.nl)
+
 -meestal zondags-
 
 ![straat](https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/art/flyer%20straat.bmp?raw=true)
