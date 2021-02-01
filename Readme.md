@@ -16,8 +16,6 @@ audio.play()
 
 <audio id="ABC" src="shows/CultureeRevolte06-3-07.mp3"></audio><button onclick="playAudio('ABC')" type="button">play</button>
 
-{% miniaudio 'shows/CultureeRevolte06-3-07.mp3' %}
-
   <audio preload="auto" autoplay="autoplay">
     <source src="shows/CultureeRevolte06-3-07.mp3" type="audio/mp3" />
   </audio>
