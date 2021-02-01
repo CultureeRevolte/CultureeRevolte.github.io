@@ -2,8 +2,7 @@
 # Site settings
 url: 'https:cultureerevolte.nl'
 baseurl: ''
-title: null
-#title: 'Culturée Revolté'
+title: 'Culturée Revolté'
 description: 'Cultuur om van te Kotsen'
 theme: jekyll-theme-hacker
 github:
