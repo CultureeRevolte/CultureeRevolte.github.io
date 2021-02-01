@@ -19,6 +19,8 @@ audio.play()
   <audio preload="auto" autoplay="autoplay">
     <source src="shows/CultureeRevolte06-3-07.mp3" type="audio/mp3" />
   </audio>
+  
+  <iframe src="shows/CultureeRevolte06-3-07.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
 
 ![straat](https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/art/flyer%20straat.bmp?raw=true)
 ![vlek](https://raw.githubusercontent.com/CultureeRevolte/CultureeRevolte.github.io/gh-pages/art/flyer%20vlek.jpg)
