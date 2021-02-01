@@ -21,6 +21,19 @@ audio.play()
   </audio>
   
   <iframe src="shows/CultureeRevolte06-3-07.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe>
+  
+  <audio controls>
+  <source src="https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte13-09-20.mp3?raw=true">
+</audio>
+
+
+<audio controls>
+  <source src="https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte13-09-20.mp3?raw=true">
+</audio>
+
+<audio controls>
+  <source src="shows/CultureeRevolte13-09-20.mp3">
+</audio>
 
 ![straat](https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/art/flyer%20straat.bmp?raw=true)
 ![vlek](https://raw.githubusercontent.com/CultureeRevolte/CultureeRevolte.github.io/gh-pages/art/flyer%20vlek.jpg)
