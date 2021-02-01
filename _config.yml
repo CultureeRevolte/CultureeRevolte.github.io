@@ -5,3 +5,5 @@ baseurl: ''
 title: 'Culturée Revolté'
 description: 'Cultuur om van te Kotsen'
 theme: jekyll-theme-hacker
+github:
+  is_project_page: false
