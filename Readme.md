@@ -7,16 +7,20 @@ Vroeger op 88.3, nu op [Twitch](https://www.twitch.tv/cultureerevolte)
 ## Oude afleveringen
 
 <!--This Way Must let Repository Public-->
-<audio ref='Stedelijk Museum Zomer 2008 ?' src="https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte%20in%20Stedelijk%20Museum%20Zomer%2008%20%3F.mp3?raw=true"></audio>
+<audio ref='Stedelijk Museum Zomer 2008 ?' src="shows/CultureeRevolte06-3-07.mp3"></audio>
 
 <script>
-var audio = new Audio("https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte%20in%20Stedelijk%20Museum%20Zomer%2008%20%3F.mp3")
+var audio = new Audio("shows/CultureeRevolte06-3-07.mp3")
 audio.play()
 </script>
 
-<audio id="ABC" src="https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte%20in%20Stedelijk%20Museum%20Zomer%2008%20%3F.mp3"></audio><button onclick="playAudio('ABC')" type="button">play</button>
+<audio id="ABC" src="shows/CultureeRevolte06-3-07.mp3"></audio><button onclick="playAudio('ABC')" type="button">play</button>
 
-{% miniaudio 'https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte%20in%20Stedelijk%20Museum%20Zomer%2008%20%3F.mp3' %}
+{% miniaudio 'shows/CultureeRevolte06-3-07.mp3' %}
+
+  <audio preload="auto" autoplay="autoplay">
+    <source src="shows/CultureeRevolte06-3-07.mp3" type="audio/mp3" />
+  </audio>
 
 ![straat](https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/art/flyer%20straat.bmp?raw=true)
 ![vlek](https://raw.githubusercontent.com/CultureeRevolte/CultureeRevolte.github.io/gh-pages/art/flyer%20vlek.jpg)
