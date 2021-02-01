@@ -3,7 +3,7 @@
 
 Walgelijk van de ether tot glasvezel
 
-Vroeger op 88.3, nu op [Twitch](twitch.tv/cultureerevolte)
+Vroeger op 88.3, nu op [Twitch](https://www.twitch.tv/cultureerevolte)
 
 -meestal zondags-
 
