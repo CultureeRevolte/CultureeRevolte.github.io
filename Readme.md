@@ -6,8 +6,6 @@ Vroeger op 88.3, nu op [Twitch](https://www.twitch.tv/cultureerevolte)
 
 ## Oude afleveringen
 
-CultureeRevolte28-2-21.mp3
-
 28 februari 2021
 <audio controls>
   <source src="shows/CultureeRevolte28-02-21.mp3">
