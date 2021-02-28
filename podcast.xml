@@ -1,0 +1,271 @@
+<rss version="2.0">
+    <channel>
+        <title>Culturée Revolté</title>
+        <link>https://cultureerevolte.nl</link>
+        <image>
+            <url>https://raw.githubusercontent.com/CultureeRevolte/CultureeRevolte.github.io/gh-pages/art/flyer%20straat.bmp</url>
+            <title>Culturée Revolté</title>
+            <link>https://cultureerevolte.nl</link>
+        </image>
+        <description>
+            Cultuur om van te kosten 
+        </description>
+        <language>nl-nl</language>
+        <copyright>Niels2 den Grove 2021</copyright>
+        <atom:link href="https://raw.githubusercontent.com/CultureeRevolte/CultureeRevolte.github.io/gh-pages/podcast.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2021 22:00:00 UTC</lastBuildDate>
+        <itunes:author>Niels2 den Grove</itunes:author>
+        <itunes:summary>
+            Cultuur om van te kosten
+        </itunes:summary>
+        <itunes:subtitle>Cultuur om van te kosten</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Niels2 den Grove</itunes:name>
+            <itunes:email>email@test.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:keywords>
+            politics,squat,noise,dutch,nederlands,kraak,geensmaak
+        </itunes:keywords>
+        <itunes:image href="https://raw.githubusercontent.com/CultureeRevolte/CultureeRevolte.github.io/gh-pages/art/flyer%20straat.bmp"/>
+        <rawvoice:rating>TV-G</rawvoice:rating>
+        <rawvoice:location>Amsterdam, the Netherlands</rawvoice:location>
+        <rawvoice:frequency>Weekly</rawvoice:frequency>
+        <itunes:category text="Politics"/>
+        <pubDate>Sun, 28 Feb 2021 22:00:00 UTC</pubDate>
+        <item>
+            ...
+        </item>
+    </channel>
+</rss>
+<item>
+    <title>Episode Name 2</title>
+    <link>
+        https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte28-02-21.mp3?raw=true
+    </link>
+    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+    <description>
+        The full length episode 2 description
+    </description>
+    <enclosure url="https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte28-02-21.mp3?raw=true" length="36715125" type="audio/mpeg"/>
+    <guid>
+        http://podcast.example.com/episode2.mp4
+    </guid>
+    <itunes:duration>19:07</itunes:duration>
+    <itunes:summary>
+        The full length episode 2 description
+    </itunes:summary>
+    <itunes:image href="http://www.example.com/image3000x3000.png"/>
+    <itunes:keywords>
+        comma,separated,key,words
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+    <title>Episode Name 2</title>
+    <link>
+        http://podcast.example.com/episode2.mp4
+    </link>
+    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+    <description>
+        The full length episode 2 description
+    </description>
+    <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+    <guid>
+        http://podcast.example.com/episode2.mp4
+    </guid>
+    <itunes:duration>19:07</itunes:duration>
+    <itunes:summary>
+        The full length episode 2 description
+    </itunes:summary>
+    <itunes:image href="http://www.example.com/image3000x3000.png"/>
+    <itunes:keywords>
+        comma,separated,key,words
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+    <title>Episode Name 2</title>
+    <link>
+        http://podcast.example.com/episode2.mp4
+    </link>
+    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+    <description>
+        The full length episode 2 description
+    </description>
+    <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+    <guid>
+        http://podcast.example.com/episode2.mp4
+    </guid>
+    <itunes:duration>19:07</itunes:duration>
+    <itunes:summary>
+        The full length episode 2 description
+    </itunes:summary>
+    <itunes:image href="http://www.example.com/image3000x3000.png"/>
+    <itunes:keywords>
+        comma,separated,key,words
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+    <title>Episode Name 2</title>
+    <link>
+        http://podcast.example.com/episode2.mp4
+    </link>
+    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+    <description>
+        The full length episode 2 description
+    </description>
+    <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+    <guid>
+        http://podcast.example.com/episode2.mp4
+    </guid>
+    <itunes:duration>19:07</itunes:duration>
+    <itunes:summary>
+        The full length episode 2 description
+    </itunes:summary>
+    <itunes:image href="http://www.example.com/image3000x3000.png"/>
+    <itunes:keywords>
+        comma,separated,key,words
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+    <title>Episode Name 2</title>
+    <link>
+        http://podcast.example.com/episode2.mp4
+    </link>
+    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+    <description>
+        The full length episode 2 description
+    </description>
+    <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+    <guid>
+        http://podcast.example.com/episode2.mp4
+    </guid>
+    <itunes:duration>19:07</itunes:duration>
+    <itunes:summary>
+        The full length episode 2 description
+    </itunes:summary>
+    <itunes:image href="http://www.example.com/image3000x3000.png"/>
+    <itunes:keywords>
+        comma,separated,key,words
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+    <title>Episode Name 2</title>
+    <link>
+        http://podcast.example.com/episode2.mp4
+    </link>
+    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+    <description>
+        The full length episode 2 description
+    </description>
+    <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+    <guid>
+        http://podcast.example.com/episode2.mp4
+    </guid>
+    <itunes:duration>19:07</itunes:duration>
+    <itunes:summary>
+        The full length episode 2 description
+    </itunes:summary>
+    <itunes:image href="http://www.example.com/image3000x3000.png"/>
+    <itunes:keywords>
+        comma,separated,key,words
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+    <title>Episode Name 2</title>
+    <link>
+        http://podcast.example.com/episode2.mp4
+    </link>
+    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+    <description>
+        The full length episode 2 description
+    </description>
+    <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+    <guid>
+        http://podcast.example.com/episode2.mp4
+    </guid>
+    <itunes:duration>19:07</itunes:duration>
+    <itunes:summary>
+        The full length episode 2 description
+    </itunes:summary>
+    <itunes:image href="http://www.example.com/image3000x3000.png"/>
+    <itunes:keywords>
+        comma,separated,key,words
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+    <title>Episode Name 2</title>
+    <link>
+        http://podcast.example.com/episode2.mp4
+    </link>
+    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+    <description>
+        The full length episode 2 description
+    </description>
+    <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+    <guid>
+        http://podcast.example.com/episode2.mp4
+    </guid>
+    <itunes:duration>19:07</itunes:duration>
+    <itunes:summary>
+        The full length episode 2 description
+    </itunes:summary>
+    <itunes:image href="http://www.example.com/image3000x3000.png"/>
+    <itunes:keywords>
+        comma,separated,key,words
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+    <title>Episode Name 2</title>
+    <link>
+        http://podcast.example.com/episode2.mp4
+    </link>
+    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+    <description>
+        The full length episode 2 description
+    </description>
+    <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+    <guid>
+        http://podcast.example.com/episode2.mp4
+    </guid>
+    <itunes:duration>19:07</itunes:duration>
+    <itunes:summary>
+        The full length episode 2 description
+    </itunes:summary>
+    <itunes:image href="http://www.example.com/image3000x3000.png"/>
+    <itunes:keywords>
+        comma,separated,key,words
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+    <title>Episode Name 2</title>
+    <link>
+        http://podcast.example.com/episode2.mp4
+    </link>
+    <pubDate>Sat, 02 Jan 2016 16:00:00 PDT</pubDate>
+    <description>
+        The full length episode 2 description
+    </description>
+    <enclosure url="http://podcasts.example.com/episode.mp4" length="36715125" type="audio/mpeg"/>
+    <guid>
+        http://podcast.example.com/episode2.mp4
+    </guid>
+    <itunes:duration>19:07</itunes:duration>
+    <itunes:summary>
+        The full length episode 2 description
+    </itunes:summary>
+    <itunes:image href="http://www.example.com/image3000x3000.png"/>
+    <itunes:keywords>
+        comma,separated,key,words
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+</item>
+
