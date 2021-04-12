@@ -6,12 +6,19 @@ Vroeger op 88.3, nu op [Twitch](https://www.twitch.tv/cultureerevolte)
 
 ## Oude afleveringen
 
+CultureeRevolte11-04-21.mp3
+
+11 april 2021
+<audio controls>
+  <source src="shows/CultureeRevolte11-04-21.mp3">
+</audio>
+[Download](https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte11-04-21.mp3?raw=true)
+
 28 februari 2021
 <audio controls>
   <source src="shows/CultureeRevolte28-02-21.mp3">
 </audio>
 [Download](https://github.com/CultureeRevolte/CultureeRevolte.github.io/blob/gh-pages/shows/CultureeRevolte28-02-21.mp3?raw=true)
-
 
 31 januari 2021
 <audio controls>
