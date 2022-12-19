@@ -3,7 +3,7 @@
 
 Walgelijk van de ether tot glasvezel
 
-Vroeger op 88.3, nu op [Twitch](https://www.twitch.tv/cultureerevolte)
+Vroeger op 88.3, [hier live](http://77.172.207.190:8000/stream.m3u)
 
 Afleveringen terugluisteren kan [hier](https://cultureerevolte.nl)
 
