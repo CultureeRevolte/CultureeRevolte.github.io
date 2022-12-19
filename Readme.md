@@ -1,6 +1,6 @@
 Walgelijk van de ether tot glasvezel
 
-Vroeger op 88.3, nu op [Twitch](https://www.twitch.tv/cultureerevolte)
+Vroeger op 88.3, [nu hier](http://77.172.207.190:8000/stream.m3u)
 
 -meestal zondags-
 
